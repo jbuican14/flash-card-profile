@@ -183,7 +183,7 @@ body {
 }
 
 .card-icon-link:hover .card-icon {
-  color: #11352c;
+  color: rgba(221, 97, 97, 0.9);
 }
 
 .card-btn {
